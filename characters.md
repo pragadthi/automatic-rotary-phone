@@ -1,0 +1,4 @@
+girl
+grandmother
+wolf
+huntsman
